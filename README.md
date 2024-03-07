@@ -2,11 +2,9 @@
 
 > Desktop application to easily save/translate words using AI
 
-
 ## Disclaimer
 
 The goal of the project is to learn coding in Rust and building from scratch neural networks.
-
 
 ## Run Locally
 
